@@ -93,9 +93,7 @@ The showcase demonstrates all four built-in Elevate themes:
 
 ---
 
-## Live Website
-
-> Coming Soon
+## Live Website : https://dds-elevate-showcase-web.netlify.app/
 
 ---
 
@@ -103,7 +101,7 @@ The showcase demonstrates all four built-in Elevate themes:
 
 Purchase the complete **Elevate Premium Developer Portfolio Template** here:
 
-> Gumroad Link (Coming Soon)
+> https://davewave61.gumroad.com/l/elevate-dave-digital-studio
 
 ---
 
